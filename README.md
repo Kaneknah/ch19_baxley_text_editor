@@ -45,29 +45,11 @@ THEN I should have proper build scripts for a webpack application<br>
 
 ## Installation
 
-A user will need to instal the package.json modules in order to run this application. The user may do this by simply running "npm i" in the terminal. The user will also need to instal the mySQL by running "mysql -uroot -p" and entering their SQL password. The user would then need to run the schema by entering "SOURCE ./sql/schema.sql;". finally the User would have to run the seeds in order for the application to work. This is done by entering "SOURCE ./sql/seeds/sql;"
+A user will need to instal the package.json modules in order to run this application. The user may do this by simply running "npm i" in the terminal. This will install all modules as well as the webpack.config documents.
 
 ## Usage
 
-The user will begin the application by entering "npm start" in the terminal. the user will then need to utilize the insomnia application to perform the required GET, POST, and PUT functions. this is done my navigating to the Insomnia desktop application and and entering in localHost URL addresses to perform the below functions. <br>
-
-- Get Product
-- Get Category
-- Get Tag
-- Get All Products
-- Get All Categories
-- Get All Tags
-- Create Product by ID
-- Create Category by ID
-- Create Tag by ID
-- Delete Product
-- Delete Category
-- Delete Tag
-- Update Product
-- Update Category
-- Update Tag
-
-Please see the provide Walkthrough video for specific actions.
+The user will access the application via Heroku. The user will simply need to follow the below link to access the application. the user will then follow the prompts to access the text editor application.
 
 ## Contribution
 
@@ -85,10 +67,14 @@ No testing was utilized for this project
 
 ### Technologies utilized:
 
-- MySQL2
+- webpackManifest
 - Express.js
 - Sequelize
-- Dotenv.
+- Node.js
+- IndexedDB
+- babel-loader
+- css-loader
+- style-loader
 
 ### GitHub Link: <https://github.com/Kaneknah/ch13_orm_commerce_backend_app>
 
