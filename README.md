@@ -13,7 +13,7 @@
 
 ## Description
 
-This project was the creation of application that simulates the back end of a Ecommerce website. The application utilizes MySQL2 created databases through Sequelize interactions. The application allows for a user to view, create, update, and delete products, categories, and tags related to sales items on the Ecommerce website. The application can not be seen on a static webpage so a walkthrough video has been created to show functionality. (Video Link)
+This project was the creation of a WPA application renders a JATE text editor. the aplication can be utilized without internet connection once installed and can run on a single webpage. The application utilizes webpackManifest and other JS and Node technologies to write and render the code.
 
 ## Acceptance Criteria
 
@@ -76,7 +76,9 @@ No testing was utilized for this project
 - css-loader
 - style-loader
 
-### GitHub Link: <https://github.com/Kaneknah/ch13_orm_commerce_backend_app>
+### GitHub Link: https://github.com/Kaneknah/ch19_baxley_text_editor
+
+### Heroku Link:
 
 ## License
 
