@@ -13,7 +13,9 @@
 
 ## Description
 
-This project was the creation of a WPA application renders a JATE text editor. the aplication can be utilized without internet connection once installed and can run on a single webpage. The application utilizes webpackManifest and other JS and Node technologies to write and render the code.
+This project was the creation of a WPA application renders a JATE text editor. the application can be utilized without internet connection once installed and can run on a single webpage. The application utilizes webpackManifest and other JS and Node technologies to write and render the code.
+
+![Alt text](./assets/images/Screenshot%202023-03-28%20191512.png)
 
 ## Acceptance Criteria
 
@@ -78,7 +80,8 @@ No testing was utilized for this project
 
 ### GitHub Link: https://github.com/Kaneknah/ch19_baxley_text_editor
 
-### Heroku Link:
+### Heroku Link: https://ch19-baxley-text-editor.herokuapp.com/
+
 
 ## License
 
